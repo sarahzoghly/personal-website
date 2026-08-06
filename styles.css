@@ -46,14 +46,6 @@ html, body{
     align-items: center;
 }
 
-.title2{
-    font-family: 'Brush Script MT', cursive;
-    font-size: 1.2rem;
-    display: flex;
-    justify-content: left;
-    align-items: center;
-}
-
 .navigation{
     background-color: white;
     color: black;
@@ -128,4 +120,44 @@ ul {
 
 #about{
     display: block;
+}
+
+.character{
+    width: 250px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    text-align: center;
+    margin-right: 3vh;
+}
+
+#about-content{
+    display: flex;
+    flex-direction: row;
+}
+
+.about-text{
+    margin-left: 2vh;
+    margin-right: 1vh;
+    text-align: left;
+    font-size: 1.2rem;
+}
+
+.content-title{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contacts-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.3rem;
+    margin-left: 2vh;
+}
+
+a {
+  color: rgb(175, 130, 255);
 }
