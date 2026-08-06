@@ -18,27 +18,40 @@
                     <p>Stuff </p>
                     <img src="/home/sarah/CS Projects/Personal_Site/images/2stars.gif" alt="Animated GIF" class="side-gif">
                 </div>
-                <button class="button-about">About Me</button>
+                <button class="button-about" onclick="showAbout()">About Me</button>
                 <br>
-                <button class="button-contact">Contacts</button>
+                <button class="button-contact" onclick="showContacts()">Contacts</button>
                 <div class="title2">
                     <img src="/home/sarah/CS Projects/Personal_Site/images/2stars.gif" alt="Animated GIF" class="side-gif">
                     <p>Projects: </p>
                 </div>
                 <ul> 
                     <li> 
-                        <button class="button">Computer Science</button>
+                        <button class="button" onclick="showCS()">Computer Science</button>
                     </li>
                     <br>
                     <li>
-                        <button class="button">Animation</button>
+                        <button class="button" onclick="showAnimation()">Animation</button>
                     </li>
                 </ul>
             </div>
             <div class ="content">
                 <p class="title">some content</p>
+                <div id ="about" class="content-section">
+                    <p>ABOUT ME</p>
+                </div>
+                <div id ="contacts" class="content-section">
+                    <p>CONTACTS</p>
+                </div>
+                <div id ="cs" class="content-section">
+                    <p>COMPUTER SCIENCE</p>
+                </div>
+                <div id ="animation" class="content-section">
+                    <p>ANIMATION</p>
+                </div>
             </div>
         </div>
-    </div>       
+    </div>
+    <script src="script.js"></script>       
 </body>
 </html>

@@ -121,3 +121,11 @@ ul {
   list-style-image: url('/home/sarah/CS Projects/Personal_Site/images/undefined - Imgur.gif');
   list-style-type: square;
 }
+
+.content-section{
+    display: none;
+}
+
+#about{
+    display: block;
+}
