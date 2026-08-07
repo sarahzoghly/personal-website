@@ -2,9 +2,10 @@
 
 That is my first web project; it is a simple website about me and some of my projects.
 
-<div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
+<div align="center">
   <img width="320" height="180" alt="website" src="https://github.com/user-attachments/assets/6257d247-bd81-48a2-8c58-7b65f00e2ba1" />
-  <a href="https://sarahzoghly.github.io/personal-website/" style="color: rgb(175, 130, 255)" target="_blank">CLICK HERE TO TRY IT OUT!</a>
+  <p></p>
+  <a href="https://sarahzoghly.github.io/personal-website/" target="_blank">CLICK HERE TO TRY IT OUT!</a>
 </div>
 
 ## To Try It:
@@ -35,6 +36,6 @@ That is my first web project; it is a simple website about me and some of my pro
 
 - Cursor: <a href= "https://www.rw-designer.com/cursor-library" target="_blank">https://www.rw-designer.com/cursor-library</a>
 
-- <p> <span style="color: dark green;"> w3schools </span> for CSS and HTML stuff </p>
+- <p>w3schools </span> for CSS and HTML stuff </p>
 
-- <p> <span style="color: Orange"> Claude </span> to explain and help in some stuff I didn't know </p>
+- <p>Claude </span> to explain and help in some stuff I didn't know </p>
