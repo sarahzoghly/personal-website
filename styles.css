@@ -110,7 +110,7 @@ html, body{
 }
 
 ul {
-  list-style-image: url('/home/sarah/CS Projects/Personal_Site/images/undefined - Imgur.gif');
+  list-style-image: url('/images/undefined - Imgur.gif');
   list-style-type: square;
 }
 
@@ -154,10 +154,50 @@ ul {
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    font-size: 1.3rem;
-    margin-left: 2vh;
+    font-size: 1.15rem;
 }
 
 a {
   color: rgb(175, 130, 255);
 }
+
+.video-scroll{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-anchor: none;
+    height: 60vh;
+}
+
+.video{
+    margin: 1vh;
+}
+
+.channel{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    margin: 1vh;
+}
+
+.projects-scroll{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    overflow-y: scroll;
+    overflow-anchor: none;
+    height: 60vh;
+}
+
+.project{
+    margin: 1vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
