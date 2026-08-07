@@ -34,7 +34,7 @@ That is my first web project; it is a simple website about me and some of my pro
 
 - Stickers: <a href= "https://sadthemes.tumblr.com/smolpxl" target="_blank">sadthemes.tumblr.com/smolpxl</a>
 
-- Cursor: <a href= "https://www.rw-designer.com/cursor-library" target="_blank">https://www.rw-designer.com/cursor-library</a>
+- Cursor: <a href= "https://www.rw-designer.com/cursor-library" target="_blank">www.rw-designer.com/cursor-library</a>
 
 - <p>w3schools </span> for CSS and HTML stuff </p>
 
