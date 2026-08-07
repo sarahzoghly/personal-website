@@ -110,7 +110,7 @@ html, body{
 }
 
 ul {
-  list-style-image: url('/images/undefined - Imgur.gif');
+  list-style-image: url('images/undefined - Imgur.gif');
   list-style-type: square;
 }
 
