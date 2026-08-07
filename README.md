@@ -2,9 +2,9 @@
 
 That is my first web project; it is a simple website about me and some of my projects.
 
-<div align="center">
+<div style="display: flex; flex-direction: column; align-items: center; gap: 10px">
   <img width="320" height="180" alt="website" src="https://github.com/user-attachments/assets/6257d247-bd81-48a2-8c58-7b65f00e2ba1" />
-  <a href="https://sarahzoghly.github.io/personal-website/" target="_blank">CLICK HERE TO TRY IT OUT!</a>
+  <a href="https://sarahzoghly.github.io/personal-website/" style="color: rgb(175, 130, 255)" target="_blank">CLICK HERE TO TRY IT OUT!</a>
 </div>
 
 ## To Try It:
